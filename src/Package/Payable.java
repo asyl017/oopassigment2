@@ -1,2 +1,5 @@
-package Package;public interface Payable {
+package Package;
+
+public interface Payable {
+    double getPaymentAmount();
 }
