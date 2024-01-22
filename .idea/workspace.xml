@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d14a24bd-c48c-4326-8710-ee5e0521302a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Package/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Package/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Package/Payable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Package/Payable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Package/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Package/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Package/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Package/Student.java" afterDir="false" />
-    </list>
+    <list default="true" id="d14a24bd-c48c-4326-8710-ee5e0521302a" name="Changes" comment="message" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +42,11 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "module"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -75,11 +72,24 @@
       <option name="presentableId" value="Default" />
       <updated>1705414968862</updated>
       <workItem from="1705414969921" duration="595000" />
-      <workItem from="1705506034516" duration="16091000" />
+      <workItem from="1705506034516" duration="16415000" />
     </task>
+    <task id="LOCAL-00001" summary="message">
+      <option name="closed" value="true" />
+      <created>1705936747551</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705936747551</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="message" />
+    <option name="LAST_COMMIT_MESSAGE" value="message" />
   </component>
 </project>
